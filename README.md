@@ -9,3 +9,5 @@ The target field, called __custcat__, has four possible values that correspond
   4- Total Service
 
 Our objective is to build a classifier, to predict the class of unknown cases. We will use a specific type of classification called K nearest neighbour.
+
+We are using KNN algorithm to build this predictive model.
